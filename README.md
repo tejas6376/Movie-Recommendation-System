@@ -71,7 +71,7 @@ Steps:
 
 ```bash 
     git clone <repository_url>
-    cd <repository_folder>
+    cd Movie-Recommendation-System
 ```   
 
 2. Install dependencies:
