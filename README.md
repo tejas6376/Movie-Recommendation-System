@@ -70,7 +70,7 @@ Steps:
 1. Clone the repository:
 
 ```bash 
-    git clone <repository_url>
+    git clone https://github.com/tejas6376/Movie-Recommendation-System
     cd Movie-Recommendation-System
 ```   
 
